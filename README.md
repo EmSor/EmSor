@@ -1,6 +1,9 @@
 # Hello there
 
-## My name is Emilio Soriano and i'm currently studying an engeneering degree in robotics and digital systems at Tec de Monterrey
+## Welcome to my profile, here you'll find (almost) every project that I´ve worked in.
+
+## I'm currently learning Ladder for PLC programming but im fluent int Python, C++, HTML, CSS, R, C and VHDL
+
 
 <!--
 **EmSor/EmSor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

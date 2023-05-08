@@ -2,7 +2,7 @@
 
 ## Welcome to my profile, here you'll find (almost) every project that I´ve worked in.
 
-## I'm currently learning Ladder for PLC programming but im fluent int Python, C++, HTML, CSS, R, C and VHDL
+## I'm currently learning Ladder for PLC programming but im fluent in Python, C++, HTML, CSS, R, C and VHDL
 
 
 <!--

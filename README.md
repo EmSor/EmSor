@@ -1,5 +1,7 @@
 ### Hello there
 
+# My name is Emilio Soriano and i'm currently studying an engeneering degree in robotics and digital systems at Tec de Monterrey
+
 <!--
 **EmSor/EmSor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

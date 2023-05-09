@@ -1,6 +1,6 @@
 # Hello there
 
-* Robotics and DigitaL Systems student at Tecnologico de Monterrey
+* Robotics and Digital Systems student at Tecnologico de Monterrey
 ## Coding languages
 * Python
 * C++

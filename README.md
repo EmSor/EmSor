@@ -9,6 +9,8 @@
 * CSS
 * VHDL
 
+## Experience with communication protocols like CAN and I2C
+
 
 <!--
 **EmSor/EmSor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

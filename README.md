@@ -1,8 +1,13 @@
 # Hello there
 
-## Welcome to my profile, here you'll find (almost) every project that I´ve worked in.
-
-## I'm currently learning Ladder for PLC programming but im fluent in Python, C++, HTML, CSS, R, C and VHDL
+* Robotics and DigitaL Systems student at Tecnologico de Monterrey
+## Coding languages
+* Python
+* C++
+* C
+* HTML
+* CSS
+* VHDL
 
 
 <!--

@@ -8,6 +8,7 @@
 * HTML
 * CSS
 * VHDL
+* R
 
 ## Communication protocols
 * CAN

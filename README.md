@@ -9,7 +9,9 @@
 * CSS
 * VHDL
 
-## Experience with communication protocols like CAN and I2C
+## Communication protocols
+* CAN
+* I2C
 
 
 <!--
